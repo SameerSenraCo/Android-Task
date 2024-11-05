@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Acharya Prashant Org Task</string>
+    <string name="loading_text">Loading…</string>
+    <string name="error_text">Error loading image</string>
+    <string name="image_content_description">Image content</string>
+    <string name="network_error">Network error. Check your connection.</string>
+    <string name="unknown_error">An unknown error occurred</string>
+</resources>
